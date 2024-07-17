@@ -2,7 +2,7 @@
 A bash script to quickly edit man pages.
 
 # Why
-Yes. I edit man pages, and I think you should too. I will get [https://tldr.sh/](tldr) pages working soon.
+Yes. I edit man pages, and I think you should too. I will probably get tldr pages working soon.
 
 # Notes
 * Replace nvim with your editor.

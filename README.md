@@ -3,7 +3,7 @@ A bash script to quickly edit man pages and tldr pages.
 
 # Notes
 
-* fzf and make are required.
+* [fzf](https://github.com/junegunn/fzf) and make are required.
 
 * Replace nvim with your editor.
 
